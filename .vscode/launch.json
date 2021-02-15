@@ -10,7 +10,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "C:\\Projects\\C++\\a.exe",
+            "program": "C:\\Projects\\Cpp_Programs\\a.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
