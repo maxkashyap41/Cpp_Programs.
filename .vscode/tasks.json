@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "-g", "TowerBreakers.cpp"
+                "-g", "Array_ZigZag.cpp"
             ],
             "group": {
                 "kind": "build",
